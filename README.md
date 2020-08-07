@@ -15,10 +15,13 @@ Once the image builds successfully, you can now run the app by:
 ```
 make run
 ```
-The app is now accessible at http://0.0.0.0:5000/
+The app is now accessible at http://0.0.0.0:5000/. You can test the correctness
+of the app by going to http://0.0.0.0:5000/fortune/get_all and checking if the
+data really was updated.
+
 
 ## Some technical details
-The app was built with Flask, with the front-end being 
+The app was built with Flask and Bootstrap being in charge of the front-end. 
 
 
 ## Future improvements
