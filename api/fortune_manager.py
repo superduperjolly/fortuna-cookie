@@ -8,7 +8,7 @@ import random
 from api import cache
 
 
-def load_fortunes(filepath="api/data/cookie_sayings2.txt"):
+def load_fortunes(filepath="api/data/cookie_sayings.txt"):
     """Load the text file into a list of strings and save to the cache."""
     text_file = open(filepath, 'r')
     lines = text_file.read().split("\n")[:-1]
