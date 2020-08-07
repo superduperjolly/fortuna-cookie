@@ -25,3 +25,4 @@ The app was built with Flask, with the front-end being
 
 + Use other front-end libraries like ReactJS
 + Transfer the persistence of data in the front-end, not in the back-end
++ (!!!) Add tests
