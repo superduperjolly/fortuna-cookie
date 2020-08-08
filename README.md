@@ -4,6 +4,7 @@ people's fortunes.
 
 Please don't take it personally.
 
+
 ## To run
 First, make sure your device has [Docker](https://docs.docker.com/get-docker/) installed. It's very important to containerize your code for others to run it easily. 
 To even make things easier, I've used simple Make commands for you to run.
@@ -21,7 +22,7 @@ data really was updated.
 
 
 ## Some technical details
-The app was built with Flask and Bootstrap being in charge of the front-end. 
+The app was built with Flask with Bootstrap being in charge of the front-end. 
 
 
 ## Future improvements
